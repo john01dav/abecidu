@@ -1,0 +1,17 @@
+<html>
+    <body>
+                <center><h1>Welcome to <i>Abecidu</i>!</h1></center>
+
+                <h1><strong>About the playing field</strong></h1>
+                <p>The large orange circle at the top of the game is the Capybara God. The flying white squares are projectiles, you need to dodge them. You can shoot your own projectiles by using the projectile tool. The red and green "tales" or "horns" are a health bar for each character.</p>
+
+                <h1><strong>Description</strong></h1>
+                <p>The purpose of Abecidu is to try and survive as long as possible while killing as many monsters as possible. When you start Abecidu you are an orange square and the enemies are blue squares, all of the enemies are floating down from the capybara god. The enemies will run and jump at you and you have to use your melee weapon and ranged weapon to murder them.</p>
+
+                <h1><strong>Instructions</strong></h1>
+                <ul>
+                        <li>Press A and D to move, use space to jump.</li>
+                        <li>Use the right mouse click to swap weapons and your left mouse click to use them.</li>
+                </ul>
+    </body>
+</html>

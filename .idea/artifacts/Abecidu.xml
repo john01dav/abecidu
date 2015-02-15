@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Abecidu">
+    <output-path>$PROJECT_DIR$/out/artifacts/Abecidu</output-path>
+    <root id="archive" name="Abecidu.jar">
+      <element id="module-output" name="abecidugame" />
+    </root>
+  </artifact>
+</component>
